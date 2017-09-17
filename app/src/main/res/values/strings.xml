@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">24*7Companion</string>
+    <string name="forgot"><a href="forgot.xml">forgot password</a></string>
+    <string name="title_activity_register">Register</string>
+    <string name="login"><a href="login.xml">login</a></string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="navigation_manu">
+        <item>My Profile</item>
+        <item>Setting</item>
+        <item>Rate App</item>
+        <item>Help</item>
+        <item>Feedback</item>
+        <item>Log Out</item>
+    </string-array>
+</resources>
